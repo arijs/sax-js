@@ -1,0 +1,15 @@
+{
+  "name": "test-xml-stream-parser",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Hengles <rafael@hengles.net>",
+  "private": true,
+  "dependencies": {
+    "node-xml-stream-parser": "^1.0.10",
+    "sax": "file:../sax-js"
+  }
+}
